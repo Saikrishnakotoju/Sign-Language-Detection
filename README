@@ -1,0 +1,17 @@
+# Sign Language Detection with Audio
+
+This project uses OpenCV, MediaPipe, and a custom-trained Keras model to detect hand gestures and speak them aloud using text-to-speech.
+
+## Features
+- Detects 7 hand gestures (Hello, I love you, No, Okay, Please, Thank you, Yes)
+- Converts detected gestures to speech
+- Allows choosing between male or female voice
+
+## How to Run
+
+1. Install dependencies:
+
+pip install -r requirements.txt 
+2. Run the script: 
+
+  predict.py
