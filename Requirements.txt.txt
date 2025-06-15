@@ -1,4 +1,0 @@
-opencv-python
-cvzone
-numpy
-pyttsx3
